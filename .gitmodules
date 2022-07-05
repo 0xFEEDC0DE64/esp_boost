@@ -1,0 +1,72 @@
+[submodule "boost_assert"]
+	path = boost_assert
+	url = ../../0xFEEDC0DE64/boost_assert.git
+[submodule "boost_bind"]
+	path = boost_bind
+	url = ../../0xFEEDC0DE64/boost_bind.git
+[submodule "boost_config"]
+	path = boost_config
+	url = ../../0xFEEDC0DE64/boost_config.git
+[submodule "boost_container"]
+	path = boost_container
+	url = ../../0xFEEDC0DE64/boost_container.git
+[submodule "boost_container_hash"]
+	path = boost_container_hash
+	url = ../../0xFEEDC0DE64/boost_container_hash.git
+[submodule "boost_core"]
+	path = boost_core
+	url = ../../0xFEEDC0DE64/boost_core.git
+[submodule "boost_detail"]
+	path = boost_detail
+	url = ../../0xFEEDC0DE64/boost_detail.git
+[submodule "boost_endian"]
+	path = boost_endian
+	url = ../../0xFEEDC0DE64/boost_endian.git
+[submodule "boost_intrusive"]
+	path = boost_intrusive
+	url = ../../0xFEEDC0DE64/boost_intrusive.git
+[submodule "boost_io"]
+	path = boost_io
+	url = ../../0xFEEDC0DE64/boost_io.git
+[submodule "boost_logic"]
+	path = boost_logic
+	url = ../../0xFEEDC0DE64/boost_logic.git
+[submodule "boost_move"]
+	path = boost_move
+	url = ../../0xFEEDC0DE64/boost_move.git
+[submodule "boost_mp11"]
+	path = boost_mp11
+	url = ../../0xFEEDC0DE64/boost_mp11.git
+[submodule "boost_optional"]
+	path = boost_optional
+	url = ../../0xFEEDC0DE64/boost_optional.git
+[submodule "boost_predef"]
+	path = boost_predef
+	url = ../../0xFEEDC0DE64/boost_predef.git
+[submodule "boost_preprocessor"]
+	path = boost_preprocessor
+	url = ../../0xFEEDC0DE64/boost_preprocessor.git
+[submodule "boost_smart_ptr"]
+	path = boost_smart_ptr
+	url = ../../0xFEEDC0DE64/boost_smart_ptr.git
+[submodule "boost_static_assert"]
+	path = boost_static_assert
+	url = ../../0xFEEDC0DE64/boost_static_assert.git
+[submodule "boost_static_string"]
+	path = boost_static_string
+	url = ../../0xFEEDC0DE64/boost_static_string.git
+[submodule "boost_system"]
+	path = boost_system
+	url = ../../0xFEEDC0DE64/boost_system.git
+[submodule "boost_throw_exception"]
+	path = boost_throw_exception
+	url = ../../0xFEEDC0DE64/boost_throw_exception.git
+[submodule "boost_type_traits"]
+	path = boost_type_traits
+	url = ../../0xFEEDC0DE64/boost_type_traits.git
+[submodule "boost_utility"]
+	path = boost_utility
+	url = ../../0xFEEDC0DE64/boost_utility.git
+[submodule "boost_variant2"]
+	path = boost_variant2
+	url = ../../0xFEEDC0DE64/boost_variant2.git
