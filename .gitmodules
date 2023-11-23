@@ -70,3 +70,57 @@
 [submodule "boost_variant2"]
 	path = boost_variant2
 	url = ../../0xFEEDC0DE64/boost_variant2.git
+[submodule "boost_algorithm"]
+	path = boost_algorithm
+	url = ../../0xFEEDC0DE64/boost_algorithm.git
+[submodule "boost_array"]
+	path = boost_array
+	url = ../../0xFEEDC0DE64/boost_array.git
+[submodule "boost_concept_check"]
+	path = boost_concept_check
+	url = ../../0xFEEDC0DE64/boost_concept_check.git
+[submodule "boost_exception"]
+	path = boost_exception
+	url = ../../0xFEEDC0DE64/boost_exception.git
+[submodule "boost_tuple"]
+	path = boost_tuple
+	url = ../../0xFEEDC0DE64/boost_tuple.git
+[submodule "boost_function"]
+	path = boost_function
+	url = ../../0xFEEDC0DE64/boost_function.git
+[submodule "boost_integer"]
+	path = boost_integer
+	url = ../../0xFEEDC0DE64/boost_integer.git
+[submodule "boost_type_index"]
+	path = boost_type_index
+	url = ../../0xFEEDC0DE64/boost_type_index.git
+[submodule "boost_typeof"]
+	path = boost_typeof
+	url = ../../0xFEEDC0DE64/boost_typeof.git
+[submodule "boost_iterator"]
+	path = boost_iterator
+	url = ../../0xFEEDC0DE64/boost_iterator.git
+[submodule "boost_conversion"]
+	path = boost_conversion
+	url = ../../0xFEEDC0DE64/boost_conversion.git
+[submodule "boost_function_types"]
+	path = boost_function_types
+	url = ../../0xFEEDC0DE64/boost_function_types.git
+[submodule "boost_mpl"]
+	path = boost_mpl
+	url = ../../0xFEEDC0DE64/boost_mpl.git
+[submodule "boost_fusion"]
+	path = boost_fusion
+	url = ../../0xFEEDC0DE64/boost_fusion.git
+[submodule "boost_functional"]
+	path = boost_functional
+	url = ../../0xFEEDC0DE64/boost_functional.git
+[submodule "boost_range"]
+	path = boost_range
+	url = ../../0xFEEDC0DE64/boost_range.git
+[submodule "boost_regex"]
+	path = boost_regex
+	url = ../../0xFEEDC0DE64/boost_regex.git
+[submodule "boost_unordered"]
+	path = boost_unordered
+	url = ../../0xFEEDC0DE64/boost_unordered.git
